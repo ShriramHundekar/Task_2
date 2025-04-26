@@ -114,8 +114,6 @@ The goal is to understand the dataset deeply through **statistical summaries**, 
 - **Task**: Task 2 - Exploratory Data Analysis
 - **Objective**: Gain practical experience in understanding and preparing real-world datasets for machine learning.
 
-📤 **Submit your GitHub repo link via this form**:  
-[Submit Task 2 Here](https://forms.gle/xSbMsLw2UwcVA3mJA)
 
 ---
 
